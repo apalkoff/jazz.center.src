@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "http://jazz.center.s3-website.eu-central-1.amazonaws.com/"
 title = "Jazz.Center"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
