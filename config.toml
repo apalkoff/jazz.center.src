@@ -27,15 +27,15 @@ paginate = 10
     url  = "/festival_2019"
     weight = 1
 
-[[menu.main]]
-    name = "Блог"
-    url  = "/blog/"
-    weight = 2
+# [[menu.main]]
+#     name = "Блог"
+#     url  = "/blog/"
+#     weight = 2
 
-[[menu.main]]
-    name = "Контактная информация"
-    url  = "/contact/"
-    weight = 4
+# [[menu.main]]
+#     name = "Контактная информация"
+#     url  = "/contact/"
+#     weight = 4
 
 # Top bar social links menu
 
@@ -138,7 +138,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -146,7 +146,7 @@ paginate = 10
     subtitle = "Джаз-центр посещает множество гостей, и нам всегда приятно слышать, что после посещения они счастливы и довольны. Посмотрите, что говорят наши гости."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Интересуешься историей ярославского джаза?"
     subtitle = "Мы подготовили для тебя более 40 рассказов о ярославских джазменах."
@@ -162,6 +162,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Из блога"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
