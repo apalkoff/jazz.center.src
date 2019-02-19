@@ -1,4 +1,4 @@
-baseurl = "http://jazz.center"
+baseurl = "http://jazz.center/"
 title = "Jazz.Center"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
